@@ -1,0 +1,22 @@
+* {
+  font-family: Verdana, Arial, sans-serif;
+}
+
+body {
+  background-color: lightskyblue;
+}
+
+p,
+ol {
+  font-size: 1.1em;
+  padding-bottom: 1.1em;
+}
+
+ul {
+  font-size: 1.2em;
+  padding-bottom: 1.1em;
+}
+
+li {
+  padding-bottom: 0.2em;
+}
